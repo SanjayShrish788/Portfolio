@@ -32,6 +32,9 @@ yarn-error.log*
 # OS
 Thumbs.db
 
+# Kiro files
+.kiro/
+
 # Documentation (keep locally, not on GitHub)
 DEPLOYMENT_GUIDE.md
 DEPLOY_STEPS.md
