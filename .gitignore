@@ -31,3 +31,15 @@ yarn-error.log*
 
 # OS
 Thumbs.db
+
+# Documentation (keep locally, not on GitHub)
+DEPLOYMENT_GUIDE.md
+DEPLOY_STEPS.md
+PORTFOLIO_GUIDE.md
+PORTFOLIO_SUMMARY.md
+
+# Old HTML files (React version only)
+index.html
+css/
+js/
+images/
