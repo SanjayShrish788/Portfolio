@@ -4,7 +4,7 @@ A modern, responsive portfolio website for a 3rd-year Computer Science and Engin
 
 ## 🌐 Live Demo
 
-**[View Live Portfolio](https://SanjayShrish788.github.io/portfolio)**
+**[View Live Portfolio](https://SanjayShrish788.github.io/Portfolio)**
 
 ## 📋 About
 
@@ -47,10 +47,10 @@ This portfolio showcases my academic projects, skills, certifications, and cours
 
 ```bash
 # Clone the repository
-git clone https://github.com/SanjayShrish788/portfolio.git
+git clone https://github.com/SanjayShrish788/Portfolio.git
 
 # Navigate to project directory
-cd portfolio
+cd Portfolio
 
 # Install dependencies
 npm install
