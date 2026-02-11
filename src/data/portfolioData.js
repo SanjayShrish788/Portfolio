@@ -8,7 +8,7 @@ export const portfolioData = {
     phone: "+91-8073834489",
     summary: "3rd-year CSE student at BMSIT&M specializing in Machine Learning and Data Science. Building projects to understand AI concepts and solve real-world problems through hands-on learning.",
     about: "I'm a 3rd-year Computer Science and Engineering student at BMS Institute of Technology and Management, Bengaluru. My academic focus is on Machine Learning and Data Science, where I've been building projects to understand how algorithms work and how data can be used to solve real problems. I've worked with supervised learning models, natural language processing, and data analysis through coursework and personal projects.\n\nI enjoy breaking down complex problems into smaller, manageable parts and applying what I learn in class to practical scenarios. Whether it's building a classification model for medical data or analyzing sentiment from text, I focus on understanding the fundamentals and improving my implementation skills. I'm also active in hackathons, which help me learn to work under time constraints and collaborate with peers.\n\nI'm currently strengthening my foundation in core CS subjects like Data Structures, Algorithms, and Database Management while exploring advanced topics in Machine Learning. I'm looking for internship opportunities where I can apply my skills, learn from experienced professionals, and contribute to meaningful projects.",
-    resumeUrl: "/Resume of sanjay editied.pdf",
+    resumeUrl: "./Resume of sanjay editied.pdf",
     social: {
       linkedin: "https://www.linkedin.com/in/sanjay-shrish-b65a47234/",
       leetcode: "https://leetcode.com/u/Sanjay_Shrish/",
@@ -176,7 +176,7 @@ export const portfolioData = {
       date: "Nov. 18, 2025",
       duration: "43 hours",
       icon: "🎓",
-      image: "/certificates/ML UDEMY COURSE/d009f403-1.png",
+      image: "./certificates/ML UDEMY COURSE/d009f403-1.png",
       skills: ["Machine Learning", "Python", "R", "AI", "Supervised Learning", "Unsupervised Learning", "Data Preprocessing", "Feature Engineering", "Model Evaluation"],
       certificateUrl: "ude.my/UC-4059937a-d99b-41e7-8de0-353c027f6e70"
     },
@@ -188,11 +188,11 @@ export const portfolioData = {
       date: "May 21, 2024",
       icon: "🔒",
       images: [
-        "/certificates/cyber 1/d413923f-1.png",
-        "/certificates/cyber 2/c7c6e479-1.png",
-        "/certificates/cyber 3/d91f0a32-1.png",
-        "/certificates/cyber 5/9c1cc758-1.png",
-        "/certificates/cyber 6/0c11c1a9-1.png"
+        "./certificates/cyber 1/d413923f-1.png",
+        "./certificates/cyber 2/c7c6e479-1.png",
+        "./certificates/cyber 3/d91f0a32-1.png",
+        "./certificates/cyber 5/9c1cc758-1.png",
+        "./certificates/cyber 6/0c11c1a9-1.png"
       ],
       skills: ["Foundations of Cybersecurity", "Security Risk Management", "Networks & Network Security", "Linux & SQL", "Assets, Threats & Vulnerabilities", "Detection & Response"]
     },
@@ -203,7 +203,7 @@ export const portfolioData = {
       year: 2025,
       date: "Oct. 12, 2025",
       icon: "🤖",
-      image: "/certificates/skillsbuild/bb282cc4-1.png",
+      image: "./certificates/skillsbuild/bb282cc4-1.png",
       skills: ["Artificial Intelligence", "AI Fundamentals", "IBM Watson", "AI Applications"]
     },
     {
@@ -212,7 +212,7 @@ export const portfolioData = {
       organization: "Google Cloud",
       year: 2025,
       icon: "✨",
-      image: "/certificates/genai/6f2389be-1.png",
+      image: "./certificates/genai/6f2389be-1.png",
       skills: ["Generative AI", "Large Language Models", "AI Applications", "Prompt Engineering", "Google Cloud AI"]
     },
     {
@@ -223,7 +223,7 @@ export const portfolioData = {
       date: "Sept 09 - Oct 07, 2025",
       duration: "4 weeks",
       icon: "💼",
-      image: "/certificates/AICTE B4 PD Completion-915/779d1872-1.png",
+      image: "./certificates/AICTE B4 PD Completion-915/779d1872-1.png",
       skills: ["AI Fundamentals", "Model Building", "Model Training", "Model Evaluation", "Cloud Technology", "Problem Solving"]
     },
     {
@@ -233,7 +233,7 @@ export const portfolioData = {
       year: 2025,
       date: "Nov 5-6, 2025",
       icon: "🏆",
-      image: "/certificates/Cognitive hackathon.png",
+      image: "./certificates/Cognitive hackathon.png",
       skills: ["Hackathon", "Innovation", "Problem Solving", "Teamwork", "Technical Thinking"]
     },
     {
@@ -244,7 +244,7 @@ export const portfolioData = {
       date: "Jan 18, 2025",
       duration: "25 hours",
       icon: "💻",
-      image: "/certificates/Sanjay S Shrish_CODERED25_Round1/6584c03a-1.png",
+      image: "./certificates/Sanjay S Shrish_CODERED25_Round1/6584c03a-1.png",
       skills: ["Hackathon", "Innovation", "Collaboration", "Problem Solving", "Technical Skills"]
     },
     {
@@ -253,7 +253,7 @@ export const portfolioData = {
       organization: "BMSIT&M",
       year: 2025,
       icon: "⚙️",
-      image: "/certificates/codex/e1ea4b1f-1.png",
+      image: "./certificates/codex/e1ea4b1f-1.png",
       skills: ["Hackathon", "Coding", "Problem Solving", "Algorithm Design", "Team Collaboration"]
     },
     {
@@ -262,7 +262,7 @@ export const portfolioData = {
       organization: "CSE Department, BMSIT&M",
       year: 2025,
       icon: "🚀",
-      image: "/certificates/incseption/e8bda327-1.png",
+      image: "./certificates/incseption/e8bda327-1.png",
       skills: ["Hackathon", "Innovation", "Time Management", "Problem Solving", "Collaboration"]
     },
     {
@@ -271,7 +271,7 @@ export const portfolioData = {
       organization: "Hindustan Petroleum Corporation Ltd. (HPCL)",
       year: 2025,
       icon: "⚡",
-      image: "/certificates/hp power lab 2/dbae9b01-1.png",
+      image: "./certificates/hp power lab 2/dbae9b01-1.png",
       skills: ["Problem Solving", "Analytical Skills", "Technical Assessment", "Industry Exposure"]
     },
     {
@@ -281,7 +281,7 @@ export const portfolioData = {
       year: 2024,
       date: "Oct 19, 2024",
       icon: "🧠",
-      image: "/certificates/Certificate for Sanjay Shrish S for _CSE DEPT CLUSTER 3 CONDUCTE/724db1c5-1.png",
+      image: "./certificates/Certificate for Sanjay Shrish S for _CSE DEPT CLUSTER 3 CONDUCTE/724db1c5-1.png",
       skills: ["Computer Science", "Quick Thinking", "Problem Solving", "Knowledge Assessment"]
     }
   ],
